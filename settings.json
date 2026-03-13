@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "playDriftDiamond.aternos.me:26593",
-    "port": Port: 26593,
+    "port":26593,
     "version": "",
     "try-creative": false
   },
